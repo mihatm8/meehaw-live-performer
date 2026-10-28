@@ -1,0 +1,11 @@
+*.bin
+.DS_Store
+__pycache__/
+dist/
+firmware/desktop/build/
+firmware/smoke/
+sdcard/lp/
+sdcard/lp_free/
+sdcard/lp_stage/
+tools/.rap_cache/
+tools/.venv/

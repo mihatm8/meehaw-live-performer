@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 210 297">
+<title>meehaw live performer - key stickers (MAIN layer large)</title>
+<rect x="0" y="0" width="210" height="297" fill="#FFFFFF"/>
+<text x="12.000" y="16.000" font-family="Helvetica, Arial, sans-serif" font-size="4.200" font-weight="bold" fill="#000000" text-anchor="start">meehaw live performer - key stickers (MAIN layer large)</text>
+<text x="12.000" y="22.000" font-family="Helvetica, Arial, sans-serif" font-size="2.400" font-weight="normal" fill="#303030" text-anchor="start">Print at 100 % (actual size, no 'fit to page'). The bar must measure 50 mm. Pitch 5.80 mm, sticker 5.00 mm, row gap 0.0 mm. </text>
+<text x="12.000" y="26.000" font-family="Helvetica, Arial, sans-serif" font-size="2.400" font-weight="normal" fill="#303030" text-anchor="start">Large: main legend. Small: the SHIFT function. Colours: track keys by category, parameter keys by their page colour (ui/palette.h), function keys grey.</text>
+<rect x="12.000" y="33.000" width="50.000" height="3.000" rx="0.00" fill="none" stroke="#000000" stroke-width="0.25"/>
+<line x1="12.000" y1="33.000" x2="12.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<line x1="22.000" y1="33.000" x2="22.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<line x1="32.000" y1="33.000" x2="32.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<line x1="42.000" y1="33.000" x2="42.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<line x1="52.000" y1="33.000" x2="52.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<line x1="62.000" y1="33.000" x2="62.000" y2="36.000" stroke="#000000" stroke-width="0.25"/>
+<text x="65.000" y="35.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="bold" fill="#000000" text-anchor="start">50 mm</text>
+<text x="80.000" y="35.400" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="start">0   10   20   30   40   50</text>
+<text x="26.000" y="44.000" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#606060" text-anchor="start">copy 1 of 2  -  1:1</text>
+<rect x="26.400" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#FFDFB8" stroke="#FF8C00" stroke-width="0.25"/>
+<text x="28.900" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CHD</text>
+<text x="28.900" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="32.200" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#FFF4B8" stroke="#FFD700" stroke-width="0.25"/>
+<text x="34.700" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LED</text>
+<text x="34.700" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="38.000" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E3D1FF" stroke="#9B59FF" stroke-width="0.25"/>
+<text x="40.500" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PAD</text>
+<text x="40.500" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="43.800" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#EAD4C0" stroke="#B5651D" stroke-width="0.25"/>
+<text x="46.300" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">BAS</text>
+<text x="46.300" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="49.600" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="52.100" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FX</text>
+<text x="52.100" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="55.400" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#C4F1D7" stroke="#2ECC71" stroke-width="0.25"/>
+<text x="57.900" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PRC</text>
+<text x="57.900" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="61.200" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#B8F8FF" stroke="#00E5FF" stroke-width="0.25"/>
+<text x="63.700" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOC</text>
+<text x="63.700" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="67.000" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="69.500" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.653" font-weight="bold" fill="#000000" text-anchor="middle">BEAT</text>
+<text x="69.500" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="72.800" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="75.300" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KICK</text>
+<text x="75.300" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="78.600" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="81.100" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.361" font-weight="bold" fill="#000000" text-anchor="middle">+HATS</text>
+<text x="81.100" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="84.400" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="86.900" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">+SNR</text>
+<text x="86.900" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="90.200" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="92.700" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.761" font-weight="bold" fill="#000000" text-anchor="middle">FULL</text>
+<text x="92.700" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="96.000" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="98.500" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.588" font-weight="bold" fill="#000000" text-anchor="middle">RUSH</text>
+<rect x="101.800" y="46.400" width="5.000" height="5.000" rx="0.45" fill="#FFC8C8" stroke="#FF3B3B" stroke-width="0.25"/>
+<text x="104.300" y="48.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CUT</text>
+<text x="104.300" y="50.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OUT+</text>
+<rect x="26.400" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#FFDFB8" stroke="#FF8C00" stroke-width="0.25"/>
+<text x="28.900" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CHD</text>
+<text x="28.900" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="32.200" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#FFF4B8" stroke="#FFD700" stroke-width="0.25"/>
+<text x="34.700" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LED</text>
+<text x="34.700" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="38.000" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E3D1FF" stroke="#9B59FF" stroke-width="0.25"/>
+<text x="40.500" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PAD</text>
+<text x="40.500" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="43.800" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#EAD4C0" stroke="#B5651D" stroke-width="0.25"/>
+<text x="46.300" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">BAS</text>
+<text x="46.300" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="49.600" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="52.100" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FX</text>
+<text x="52.100" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="55.400" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#C4F1D7" stroke="#2ECC71" stroke-width="0.25"/>
+<text x="57.900" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PRC</text>
+<text x="57.900" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="61.200" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#B8F8FF" stroke="#00E5FF" stroke-width="0.25"/>
+<text x="63.700" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOC</text>
+<text x="63.700" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="67.000" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="69.500" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.653" font-weight="bold" fill="#000000" text-anchor="middle">BEAT</text>
+<text x="69.500" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="72.800" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="75.300" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KICK</text>
+<text x="75.300" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="78.600" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="81.100" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.361" font-weight="bold" fill="#000000" text-anchor="middle">+HATS</text>
+<text x="81.100" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="84.400" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="86.900" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">+SNR</text>
+<text x="86.900" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="90.200" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="92.700" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.761" font-weight="bold" fill="#000000" text-anchor="middle">FULL</text>
+<text x="92.700" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="96.000" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="98.500" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.588" font-weight="bold" fill="#000000" text-anchor="middle">RUSH</text>
+<rect x="101.800" y="52.200" width="5.000" height="5.000" rx="0.45" fill="#FFC8C8" stroke="#FF3B3B" stroke-width="0.25"/>
+<text x="104.300" y="54.700" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CUT</text>
+<text x="104.300" y="56.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OUT-</text>
+<rect x="26.400" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#C8FFBD" stroke="#39FF14" stroke-width="0.25"/>
+<text x="28.900" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">VOL+</text>
+<text x="28.900" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="32.200" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#B8FFFF" stroke="#00FFFF" stroke-width="0.25"/>
+<text x="34.700" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">REV+</text>
+<text x="34.700" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="38.000" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#FFB8FF" stroke="#FF00FF" stroke-width="0.25"/>
+<text x="40.500" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.296" font-weight="bold" fill="#000000" text-anchor="middle">ECHO+</text>
+<text x="40.500" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="43.800" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#FFDAB8" stroke="#FF7A00" stroke-width="0.25"/>
+<text x="46.300" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.572" font-weight="bold" fill="#000000" text-anchor="middle">DIST+</text>
+<text x="46.300" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="49.600" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#FFFFB8" stroke="#FFFF00" stroke-width="0.25"/>
+<text x="52.100" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">FILT+</text>
+<text x="52.100" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="55.400" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#E9C2FF" stroke="#B026FF" stroke-width="0.25"/>
+<text x="57.900" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.741" font-weight="bold" fill="#000000" text-anchor="middle">LEN+</text>
+<text x="57.900" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">BARS+</text>
+<rect x="61.200" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#FFFFFF" stroke="#909090" stroke-width="0.25"/>
+<text x="63.700" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">TMP+</text>
+<text x="63.700" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">DRIFT</text>
+<rect x="67.000" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#C3D9FF" stroke="#2979FF" stroke-width="0.25"/>
+<text x="69.500" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">KEY+</text>
+<text x="69.500" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OCT+</text>
+<rect x="72.800" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="75.300" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.528" font-weight="bold" fill="#000000" text-anchor="middle">GYRO</text>
+<text x="75.300" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">ALL</text>
+<rect x="78.600" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="81.100" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.265" font-weight="bold" fill="#000000" text-anchor="middle">GENRE</text>
+<text x="81.100" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">ACID</text>
+<rect x="84.400" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="86.900" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.372" font-weight="bold" fill="#000000" text-anchor="middle">SAVE1</text>
+<text x="86.900" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">REC</text>
+<rect x="90.200" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="92.700" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.328" font-weight="bold" fill="#000000" text-anchor="middle">LOAD1</text>
+<text x="92.700" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">THRY1</text>
+<rect x="96.000" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="98.500" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.446" font-weight="bold" fill="#000000" text-anchor="middle">GEN P</text>
+<text x="98.500" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">USB</text>
+<rect x="101.800" y="58.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="104.300" y="60.500" font-family="Helvetica, Arial, sans-serif" font-size="1.500" font-weight="bold" fill="#000000" text-anchor="middle">GEN 1</text>
+<text x="104.300" y="62.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">GEN 2</text>
+<rect x="26.400" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#C8FFBD" stroke="#39FF14" stroke-width="0.25"/>
+<text x="28.900" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOL-</text>
+<text x="28.900" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="32.200" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#B8FFFF" stroke="#00FFFF" stroke-width="0.25"/>
+<text x="34.700" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">REV-</text>
+<text x="34.700" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="38.000" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#FFB8FF" stroke="#FF00FF" stroke-width="0.25"/>
+<text x="40.500" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.397" font-weight="bold" fill="#000000" text-anchor="middle">ECHO-</text>
+<text x="40.500" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="43.800" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#FFDAB8" stroke="#FF7A00" stroke-width="0.25"/>
+<text x="46.300" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.723" font-weight="bold" fill="#000000" text-anchor="middle">DIST-</text>
+<text x="46.300" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="49.600" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#FFFFB8" stroke="#FFFF00" stroke-width="0.25"/>
+<text x="52.100" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FILT-</text>
+<text x="52.100" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="55.400" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#E9C2FF" stroke="#B026FF" stroke-width="0.25"/>
+<text x="57.900" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LEN-</text>
+<text x="57.900" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">BARS-</text>
+<rect x="61.200" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#FFFFFF" stroke="#909090" stroke-width="0.25"/>
+<text x="63.700" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">TMP-</text>
+<text x="63.700" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">DRIFT</text>
+<rect x="67.000" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#C3D9FF" stroke="#2979FF" stroke-width="0.25"/>
+<text x="69.500" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KEY-</text>
+<text x="69.500" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OCT-</text>
+<rect x="72.800" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="75.300" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">EDIT</text>
+<text x="75.300" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">LOOP</text>
+<rect x="78.600" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="81.100" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.687" font-weight="bold" fill="#000000" text-anchor="middle">PERF</text>
+<text x="81.100" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">PRF 2</text>
+<rect x="84.400" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="86.900" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.372" font-weight="bold" fill="#000000" text-anchor="middle">SAVE2</text>
+<text x="86.900" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">PRSET</text>
+<rect x="90.200" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="92.700" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.328" font-weight="bold" fill="#000000" text-anchor="middle">LOAD2</text>
+<text x="92.700" y="68.000" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">THRY2</text>
+<rect x="96.000" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="98.500" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.446" font-weight="bold" fill="#000000" text-anchor="middle">GEN S</text>
+<rect x="101.800" y="63.800" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="104.300" y="66.300" font-family="Helvetica, Arial, sans-serif" font-size="1.558" font-weight="bold" fill="#000000" text-anchor="middle">SHIFT</text>
+<line x1="26.000" y1="45.600" x2="26.000" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="26.000" y1="69.600" x2="26.000" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="31.800" y1="45.600" x2="31.800" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="31.800" y1="69.600" x2="31.800" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="37.600" y1="45.600" x2="37.600" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="37.600" y1="69.600" x2="37.600" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="43.400" y1="45.600" x2="43.400" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="43.400" y1="69.600" x2="43.400" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="49.200" y1="45.600" x2="49.200" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="49.200" y1="69.600" x2="49.200" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="55.000" y1="45.600" x2="55.000" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="55.000" y1="69.600" x2="55.000" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="60.800" y1="45.600" x2="60.800" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="60.800" y1="69.600" x2="60.800" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="66.600" y1="45.600" x2="66.600" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="66.600" y1="69.600" x2="66.600" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="72.400" y1="45.600" x2="72.400" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="72.400" y1="69.600" x2="72.400" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="78.200" y1="45.600" x2="78.200" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="78.200" y1="69.600" x2="78.200" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="84.000" y1="45.600" x2="84.000" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="84.000" y1="69.600" x2="84.000" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="89.800" y1="45.600" x2="89.800" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="89.800" y1="69.600" x2="89.800" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="95.600" y1="45.600" x2="95.600" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="95.600" y1="69.600" x2="95.600" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="101.400" y1="45.600" x2="101.400" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="101.400" y1="69.600" x2="101.400" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.200" y1="45.600" x2="107.200" y2="44.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.200" y1="69.600" x2="107.200" y2="71.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="46.000" x2="24.000" y2="46.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="46.000" x2="109.200" y2="46.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="51.800" x2="24.000" y2="51.800" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="51.800" x2="109.200" y2="51.800" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="57.600" x2="24.000" y2="57.600" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="57.600" x2="109.200" y2="57.600" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="63.400" x2="24.000" y2="63.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="63.400" x2="109.200" y2="63.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="69.200" x2="24.000" y2="69.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="69.200" x2="109.200" y2="69.200" stroke="#808080" stroke-width="0.15"/>
+<text x="23.000" y="49.596" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y0  set 1</text>
+<text x="23.000" y="55.396" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y1  set 2</text>
+<text x="23.000" y="61.196" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y2</text>
+<text x="23.000" y="66.996" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y3</text>
+<text x="26.000" y="81.200" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#606060" text-anchor="start">copy 2 of 2  -  1:1</text>
+<rect x="26.400" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#FFDFB8" stroke="#FF8C00" stroke-width="0.25"/>
+<text x="28.900" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CHD</text>
+<text x="28.900" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="32.200" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#FFF4B8" stroke="#FFD700" stroke-width="0.25"/>
+<text x="34.700" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LED</text>
+<text x="34.700" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="38.000" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E3D1FF" stroke="#9B59FF" stroke-width="0.25"/>
+<text x="40.500" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PAD</text>
+<text x="40.500" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="43.800" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#EAD4C0" stroke="#B5651D" stroke-width="0.25"/>
+<text x="46.300" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">BAS</text>
+<text x="46.300" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="49.600" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="52.100" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FX</text>
+<text x="52.100" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="55.400" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#C4F1D7" stroke="#2ECC71" stroke-width="0.25"/>
+<text x="57.900" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PRC</text>
+<text x="57.900" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="61.200" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#B8F8FF" stroke="#00E5FF" stroke-width="0.25"/>
+<text x="63.700" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOC</text>
+<text x="63.700" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="67.000" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="69.500" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.653" font-weight="bold" fill="#000000" text-anchor="middle">BEAT</text>
+<text x="69.500" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="72.800" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="75.300" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KICK</text>
+<text x="75.300" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="78.600" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="81.100" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.361" font-weight="bold" fill="#000000" text-anchor="middle">+HATS</text>
+<text x="81.100" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="84.400" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="86.900" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">+SNR</text>
+<text x="86.900" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="90.200" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="92.700" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.761" font-weight="bold" fill="#000000" text-anchor="middle">FULL</text>
+<text x="92.700" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="96.000" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="98.500" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.588" font-weight="bold" fill="#000000" text-anchor="middle">RUSH</text>
+<rect x="101.800" y="83.600" width="5.000" height="5.000" rx="0.45" fill="#FFC8C8" stroke="#FF3B3B" stroke-width="0.25"/>
+<text x="104.300" y="86.100" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CUT</text>
+<text x="104.300" y="87.800" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OUT+</text>
+<rect x="26.400" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#FFDFB8" stroke="#FF8C00" stroke-width="0.25"/>
+<text x="28.900" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CHD</text>
+<text x="28.900" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="32.200" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#FFF4B8" stroke="#FFD700" stroke-width="0.25"/>
+<text x="34.700" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LED</text>
+<text x="34.700" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="38.000" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E3D1FF" stroke="#9B59FF" stroke-width="0.25"/>
+<text x="40.500" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PAD</text>
+<text x="40.500" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="43.800" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#EAD4C0" stroke="#B5651D" stroke-width="0.25"/>
+<text x="46.300" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">BAS</text>
+<text x="46.300" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="49.600" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="52.100" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FX</text>
+<text x="52.100" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="55.400" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#C4F1D7" stroke="#2ECC71" stroke-width="0.25"/>
+<text x="57.900" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">PRC</text>
+<text x="57.900" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="61.200" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#B8F8FF" stroke="#00E5FF" stroke-width="0.25"/>
+<text x="63.700" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOC</text>
+<text x="63.700" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="67.000" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="69.500" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.653" font-weight="bold" fill="#000000" text-anchor="middle">BEAT</text>
+<text x="69.500" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SEL</text>
+<rect x="72.800" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="75.300" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KICK</text>
+<text x="75.300" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="78.600" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="81.100" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.361" font-weight="bold" fill="#000000" text-anchor="middle">+HATS</text>
+<text x="81.100" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="84.400" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="86.900" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">+SNR</text>
+<text x="86.900" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="90.200" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="92.700" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.761" font-weight="bold" fill="#000000" text-anchor="middle">FULL</text>
+<text x="92.700" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">SYNTH</text>
+<rect x="96.000" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="98.500" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.588" font-weight="bold" fill="#000000" text-anchor="middle">RUSH</text>
+<rect x="101.800" y="89.400" width="5.000" height="5.000" rx="0.45" fill="#FFC8C8" stroke="#FF3B3B" stroke-width="0.25"/>
+<text x="104.300" y="91.900" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">CUT</text>
+<text x="104.300" y="93.600" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OUT-</text>
+<rect x="26.400" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#C8FFBD" stroke="#39FF14" stroke-width="0.25"/>
+<text x="28.900" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">VOL+</text>
+<text x="28.900" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="32.200" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#B8FFFF" stroke="#00FFFF" stroke-width="0.25"/>
+<text x="34.700" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">REV+</text>
+<text x="34.700" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="38.000" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#FFB8FF" stroke="#FF00FF" stroke-width="0.25"/>
+<text x="40.500" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.296" font-weight="bold" fill="#000000" text-anchor="middle">ECHO+</text>
+<text x="40.500" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="43.800" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#FFDAB8" stroke="#FF7A00" stroke-width="0.25"/>
+<text x="46.300" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.572" font-weight="bold" fill="#000000" text-anchor="middle">DIST+</text>
+<text x="46.300" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="49.600" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#FFFFB8" stroke="#FFFF00" stroke-width="0.25"/>
+<text x="52.100" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">FILT+</text>
+<text x="52.100" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP+</text>
+<rect x="55.400" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#E9C2FF" stroke="#B026FF" stroke-width="0.25"/>
+<text x="57.900" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.741" font-weight="bold" fill="#000000" text-anchor="middle">LEN+</text>
+<text x="57.900" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">BARS+</text>
+<rect x="61.200" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#FFFFFF" stroke="#909090" stroke-width="0.25"/>
+<text x="63.700" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.670" font-weight="bold" fill="#000000" text-anchor="middle">TMP+</text>
+<text x="63.700" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">DRIFT</text>
+<rect x="67.000" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#C3D9FF" stroke="#2979FF" stroke-width="0.25"/>
+<text x="69.500" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.705" font-weight="bold" fill="#000000" text-anchor="middle">KEY+</text>
+<text x="69.500" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OCT+</text>
+<rect x="72.800" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="75.300" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.528" font-weight="bold" fill="#000000" text-anchor="middle">GYRO</text>
+<text x="75.300" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">ALL</text>
+<rect x="78.600" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="81.100" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.265" font-weight="bold" fill="#000000" text-anchor="middle">GENRE</text>
+<text x="81.100" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">ACID</text>
+<rect x="84.400" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="86.900" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.372" font-weight="bold" fill="#000000" text-anchor="middle">SAVE1</text>
+<text x="86.900" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">REC</text>
+<rect x="90.200" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="92.700" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.328" font-weight="bold" fill="#000000" text-anchor="middle">LOAD1</text>
+<text x="92.700" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">THRY1</text>
+<rect x="96.000" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="98.500" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.446" font-weight="bold" fill="#000000" text-anchor="middle">GEN P</text>
+<text x="98.500" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">USB</text>
+<rect x="101.800" y="95.200" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="104.300" y="97.700" font-family="Helvetica, Arial, sans-serif" font-size="1.500" font-weight="bold" fill="#000000" text-anchor="middle">GEN 1</text>
+<text x="104.300" y="99.400" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">GEN 2</text>
+<rect x="26.400" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#C8FFBD" stroke="#39FF14" stroke-width="0.25"/>
+<text x="28.900" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">VOL-</text>
+<text x="28.900" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="32.200" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#B8FFFF" stroke="#00FFFF" stroke-width="0.25"/>
+<text x="34.700" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">REV-</text>
+<text x="34.700" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="38.000" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#FFB8FF" stroke="#FF00FF" stroke-width="0.25"/>
+<text x="40.500" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.397" font-weight="bold" fill="#000000" text-anchor="middle">ECHO-</text>
+<text x="40.500" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="43.800" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#FFDAB8" stroke="#FF7A00" stroke-width="0.25"/>
+<text x="46.300" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.723" font-weight="bold" fill="#000000" text-anchor="middle">DIST-</text>
+<text x="46.300" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="49.600" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#FFFFB8" stroke="#FFFF00" stroke-width="0.25"/>
+<text x="52.100" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">FILT-</text>
+<text x="52.100" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">RAMP-</text>
+<rect x="55.400" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#E9C2FF" stroke="#B026FF" stroke-width="0.25"/>
+<text x="57.900" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">LEN-</text>
+<text x="57.900" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">BARS-</text>
+<rect x="61.200" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#FFFFFF" stroke="#909090" stroke-width="0.25"/>
+<text x="63.700" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">TMP-</text>
+<text x="63.700" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">DRIFT</text>
+<rect x="67.000" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#C3D9FF" stroke="#2979FF" stroke-width="0.25"/>
+<text x="69.500" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">KEY-</text>
+<text x="69.500" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">OCT-</text>
+<rect x="72.800" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="75.300" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.800" font-weight="bold" fill="#000000" text-anchor="middle">EDIT</text>
+<text x="75.300" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">LOOP</text>
+<rect x="78.600" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="81.100" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.687" font-weight="bold" fill="#000000" text-anchor="middle">PERF</text>
+<text x="81.100" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">PRF 2</text>
+<rect x="84.400" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="86.900" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.372" font-weight="bold" fill="#000000" text-anchor="middle">SAVE2</text>
+<text x="86.900" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">PRSET</text>
+<rect x="90.200" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="92.700" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.328" font-weight="bold" fill="#000000" text-anchor="middle">LOAD2</text>
+<text x="92.700" y="105.200" font-family="Helvetica, Arial, sans-serif" font-size="1.050" font-weight="normal" fill="#303030" text-anchor="middle">THRY2</text>
+<rect x="96.000" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="98.500" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.446" font-weight="bold" fill="#000000" text-anchor="middle">GEN S</text>
+<rect x="101.800" y="101.000" width="5.000" height="5.000" rx="0.45" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="104.300" y="103.500" font-family="Helvetica, Arial, sans-serif" font-size="1.558" font-weight="bold" fill="#000000" text-anchor="middle">SHIFT</text>
+<line x1="26.000" y1="82.800" x2="26.000" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="26.000" y1="106.800" x2="26.000" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="31.800" y1="82.800" x2="31.800" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="31.800" y1="106.800" x2="31.800" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="37.600" y1="82.800" x2="37.600" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="37.600" y1="106.800" x2="37.600" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="43.400" y1="82.800" x2="43.400" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="43.400" y1="106.800" x2="43.400" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="49.200" y1="82.800" x2="49.200" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="49.200" y1="106.800" x2="49.200" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="55.000" y1="82.800" x2="55.000" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="55.000" y1="106.800" x2="55.000" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="60.800" y1="82.800" x2="60.800" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="60.800" y1="106.800" x2="60.800" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="66.600" y1="82.800" x2="66.600" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="66.600" y1="106.800" x2="66.600" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="72.400" y1="82.800" x2="72.400" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="72.400" y1="106.800" x2="72.400" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="78.200" y1="82.800" x2="78.200" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="78.200" y1="106.800" x2="78.200" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="84.000" y1="82.800" x2="84.000" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="84.000" y1="106.800" x2="84.000" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="89.800" y1="82.800" x2="89.800" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="89.800" y1="106.800" x2="89.800" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="95.600" y1="82.800" x2="95.600" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="95.600" y1="106.800" x2="95.600" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="101.400" y1="82.800" x2="101.400" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="101.400" y1="106.800" x2="101.400" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.200" y1="82.800" x2="107.200" y2="81.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.200" y1="106.800" x2="107.200" y2="108.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="83.200" x2="24.000" y2="83.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="83.200" x2="109.200" y2="83.200" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="89.000" x2="24.000" y2="89.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="89.000" x2="109.200" y2="89.000" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="94.800" x2="24.000" y2="94.800" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="94.800" x2="109.200" y2="94.800" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="100.600" x2="24.000" y2="100.600" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="100.600" x2="109.200" y2="100.600" stroke="#808080" stroke-width="0.15"/>
+<line x1="25.600" y1="106.400" x2="24.000" y2="106.400" stroke="#808080" stroke-width="0.15"/>
+<line x1="107.600" y1="106.400" x2="109.200" y2="106.400" stroke="#808080" stroke-width="0.15"/>
+<text x="23.000" y="86.796" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y0  set 1</text>
+<text x="23.000" y="92.596" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y1  set 2</text>
+<text x="23.000" y="98.396" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y2</text>
+<text x="23.000" y="104.196" font-family="Helvetica, Arial, sans-serif" font-size="2.000" font-weight="normal" fill="#606060" text-anchor="end">y3</text>
+<text x="12.000" y="120.400" font-family="Helvetica, Arial, sans-serif" font-size="3.000" font-weight="bold" fill="#000000" text-anchor="start">Colours</text>
+<rect x="12.000" y="122.200" width="4.000" height="4.000" rx="0.40" fill="#FFDFB8" stroke="#FF8C00" stroke-width="0.25"/>
+<text x="17.500" y="125.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Chord</text>
+<rect x="48.000" y="122.200" width="4.000" height="4.000" rx="0.40" fill="#FFF4B8" stroke="#FFD700" stroke-width="0.25"/>
+<text x="53.500" y="125.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Lead</text>
+<rect x="84.000" y="122.200" width="4.000" height="4.000" rx="0.40" fill="#E3D1FF" stroke="#9B59FF" stroke-width="0.25"/>
+<text x="89.500" y="125.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Pad</text>
+<rect x="120.000" y="122.200" width="4.000" height="4.000" rx="0.40" fill="#EAD4C0" stroke="#B5651D" stroke-width="0.25"/>
+<text x="125.500" y="125.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Bass</text>
+<rect x="156.000" y="122.200" width="4.000" height="4.000" rx="0.40" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="161.500" y="125.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Fx</text>
+<rect x="12.000" y="127.200" width="4.000" height="4.000" rx="0.40" fill="#C4F1D7" stroke="#2ECC71" stroke-width="0.25"/>
+<text x="17.500" y="130.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Percussion</text>
+<rect x="48.000" y="127.200" width="4.000" height="4.000" rx="0.40" fill="#B8F8FF" stroke="#00E5FF" stroke-width="0.25"/>
+<text x="53.500" y="130.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Vocal</text>
+<rect x="84.000" y="127.200" width="4.000" height="4.000" rx="0.40" fill="#E4E4E4" stroke="#A0A0A0" stroke-width="0.25"/>
+<text x="89.500" y="130.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">Beat</text>
+<rect x="120.000" y="127.200" width="4.000" height="4.000" rx="0.40" fill="#C8FFBD" stroke="#39FF14" stroke-width="0.25"/>
+<text x="125.500" y="130.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">vol</text>
+<rect x="156.000" y="127.200" width="4.000" height="4.000" rx="0.40" fill="#B8FFFF" stroke="#00FFFF" stroke-width="0.25"/>
+<text x="161.500" y="130.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">reverb</text>
+<rect x="12.000" y="132.200" width="4.000" height="4.000" rx="0.40" fill="#FFB8FF" stroke="#FF00FF" stroke-width="0.25"/>
+<text x="17.500" y="135.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">echo</text>
+<rect x="48.000" y="132.200" width="4.000" height="4.000" rx="0.40" fill="#FFDAB8" stroke="#FF7A00" stroke-width="0.25"/>
+<text x="53.500" y="135.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">dist</text>
+<rect x="84.000" y="132.200" width="4.000" height="4.000" rx="0.40" fill="#FFFFB8" stroke="#FFFF00" stroke-width="0.25"/>
+<text x="89.500" y="135.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">filter</text>
+<rect x="120.000" y="132.200" width="4.000" height="4.000" rx="0.40" fill="#E9C2FF" stroke="#B026FF" stroke-width="0.25"/>
+<text x="125.500" y="135.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">length</text>
+<rect x="156.000" y="132.200" width="4.000" height="4.000" rx="0.40" fill="#FFFFFF" stroke="#909090" stroke-width="0.25"/>
+<text x="161.500" y="135.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">tempo</text>
+<rect x="12.000" y="137.200" width="4.000" height="4.000" rx="0.40" fill="#C3D9FF" stroke="#2979FF" stroke-width="0.25"/>
+<text x="17.500" y="140.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">key</text>
+<rect x="48.000" y="137.200" width="4.000" height="4.000" rx="0.40" fill="#FFC8C8" stroke="#FF3B3B" stroke-width="0.25"/>
+<text x="53.500" y="140.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">output</text>
+<rect x="84.000" y="137.200" width="4.000" height="4.000" rx="0.40" fill="#FFCEE5" stroke="#FF4FA3" stroke-width="0.25"/>
+<text x="89.500" y="140.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">genre</text>
+<rect x="120.000" y="137.200" width="4.000" height="4.000" rx="0.40" fill="#D2D2D2" stroke="#606060" stroke-width="0.25"/>
+<text x="125.500" y="140.400" font-family="Helvetica, Arial, sans-serif" font-size="2.600" font-weight="normal" fill="#202020" text-anchor="start">function</text>
+<text x="12.000" y="151.400" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#404040" text-anchor="start">Rows: y0 = set 1 tracks / Beat layers / rush / kick cut, y1 = set 2 (same), y2 = parameter + keys and functions, y3 = parameter - keys and functions; SHIFT = the space key (13,3).</text>
+<text x="12.000" y="155.600" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#404040" text-anchor="start">Cut on the grey marks (one sticker per cell, 0.4 mm of white around each). The full map with every page is docs/KEYMAP.md; the manual is docs/MANUAL.md.</text>
+<text x="12.000" y="159.800" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#404040" text-anchor="start">Generated 2026-10-16 by tools/make_stickers.py --pitch 5.8 --cap 5 --gap 0 (device: M5Stack Cardputer ADV, 56 keys 4 x 14, case 84.0 x 54.0 mm per M5Stack docs; the pitch is not</text>
+<text x="12.000" y="163.000" font-family="Helvetica, Arial, sans-serif" font-size="2.200" font-weight="normal" fill="#404040" text-anchor="start">published - measure yours).</text>
+</svg>

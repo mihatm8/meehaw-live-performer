@@ -1,0 +1,14 @@
+{
+  "name": "meehaw live performer",
+  "version": "0.9.0",
+  "new_install_prompt_erase": true,
+  "new_install_improv_wait_time": 0,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "meehaw-player-0.9.0-full.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
